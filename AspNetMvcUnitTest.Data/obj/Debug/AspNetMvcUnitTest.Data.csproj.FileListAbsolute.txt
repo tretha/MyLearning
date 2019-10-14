@@ -1,0 +1,15 @@
+F:\aspnet-mvc-unit-test-master\AspNetMvcUnitTest.Data\bin\Debug\AspNetMvcUnitTest.Data.dll.config
+F:\aspnet-mvc-unit-test-master\AspNetMvcUnitTest.Data\bin\Debug\AspNetMvcUnitTest.Data.dll
+F:\aspnet-mvc-unit-test-master\AspNetMvcUnitTest.Data\bin\Debug\AspNetMvcUnitTest.Data.pdb
+F:\aspnet-mvc-unit-test-master\AspNetMvcUnitTest.Data\bin\Debug\EntityFramework.dll
+F:\aspnet-mvc-unit-test-master\AspNetMvcUnitTest.Data\bin\Debug\EntityFramework.SqlServer.dll
+F:\aspnet-mvc-unit-test-master\AspNetMvcUnitTest.Data\bin\Debug\EntityFramework.xml
+F:\aspnet-mvc-unit-test-master\AspNetMvcUnitTest.Data\bin\Debug\EntityFramework.SqlServer.xml
+F:\aspnet-mvc-unit-test-master\AspNetMvcUnitTest.Data\obj\Debug\AspNetMvcUnitTest.Data.csprojAssemblyReference.cache
+F:\aspnet-mvc-unit-test-master\AspNetMvcUnitTest.Data\obj\Debug\AspNetMvcUnitTest.Data.Migrations.InitialCreate.resources
+F:\aspnet-mvc-unit-test-master\AspNetMvcUnitTest.Data\obj\Debug\AspNetMvcUnitTest.Data.Migrations.AddedUrlToVideo.resources
+F:\aspnet-mvc-unit-test-master\AspNetMvcUnitTest.Data\obj\Debug\AspNetMvcUnitTest.Data.csproj.GenerateResource.cache
+F:\aspnet-mvc-unit-test-master\AspNetMvcUnitTest.Data\obj\Debug\AspNetMvcUnitTest.Data.csproj.CoreCompileInputs.cache
+F:\aspnet-mvc-unit-test-master\AspNetMvcUnitTest.Data\obj\Debug\AspNetMvcUnitTest.Data.csproj.CopyComplete
+F:\aspnet-mvc-unit-test-master\AspNetMvcUnitTest.Data\obj\Debug\AspNetMvcUnitTest.Data.dll
+F:\aspnet-mvc-unit-test-master\AspNetMvcUnitTest.Data\obj\Debug\AspNetMvcUnitTest.Data.pdb
